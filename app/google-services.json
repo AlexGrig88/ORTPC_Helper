@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "883393436052",
+    "project_id": "stationproject-19659",
+    "storage_bucket": "stationproject-19659.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883393436052:android:14d9ffaa9fec2c51039781",
+        "android_client_info": {
+          "package_name": "com.alexgrig.ortpchelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883393436052-uhsv3ta0ve21kq50ga1l7oiu0b3rt3v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqrciAif50Eqk5j887OyYQUNbAiVMNhxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883393436052-uhsv3ta0ve21kq50ga1l7oiu0b3rt3v7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
